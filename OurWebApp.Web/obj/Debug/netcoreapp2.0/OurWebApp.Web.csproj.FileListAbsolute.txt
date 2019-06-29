@@ -1,0 +1,27 @@
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csprojResolveAssemblyReference.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csprojAssemblyReference.cache
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CopyComplete
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb

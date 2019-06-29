@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+        "projectName": "OurWebApp.Dates",
+        "projectPath": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+        "packagesPath": "C:\\Users\\ptatla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Dates\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ptatla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
+        "projectName": "OurWebApp.Dates.Tests",
+        "projectPath": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
+        "packagesPath": "C:\\Users\\ptatla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ptatla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+                "projectPath": "C:\\Users\\ptatla\\Excercises\\Pluralsight\\Specifying Deployment Requirements\\pluralsight-webapp\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.7.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

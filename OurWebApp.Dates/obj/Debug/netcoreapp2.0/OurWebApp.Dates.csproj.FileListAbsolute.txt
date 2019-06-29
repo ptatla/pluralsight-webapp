@@ -1,0 +1,18 @@
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.deps.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csprojResolveAssemblyReference.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csproj.CoreCompileInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfoInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfo.cs
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.deps.json
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csprojAssemblyReference.cache
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csproj.CoreCompileInputs.cache
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfoInputs.cache
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfo.cs
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Users\ptatla\Excercises\Pluralsight\Specifying Deployment Requirements\pluralsight-webapp\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
